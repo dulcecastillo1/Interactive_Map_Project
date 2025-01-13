@@ -1,4 +1,5 @@
 # Interactive_Map_Project
+Note: the save feature/button located in the top right corner of the map currently does not work. (the save button was intended to save the location of the traveler every time the user clicks it, loading the traveler in the same location the next time the program is closed and opened again). 
 add the following audio files to the project as "[NAME].wav" after converting the audio files from .MP4 to .wav
 
 error.wav : https://github.com/user-attachments/assets/80e1901d-a666-4176-a30b-878fe2a824f3

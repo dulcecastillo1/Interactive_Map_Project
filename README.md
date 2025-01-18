@@ -1,4 +1,5 @@
 # Interactive_Map_Project
+This interactive map project displays a map of Mexico. Within this map, you are able to control your traveler using your arrow keys, moving to a total of 4 different landmarks spread across the map. These landmarks include images, audio, and a description of the location. This map also includes obstacles you may encounter along your journey, including mountains, houses, roads, and trees, meaning you will be unable to walk across them. 
 Note: the save feature/button located in the top right corner of the map currently does not work. (the save button was intended to save the location of the traveler every time the user clicks it, loading the traveler in the same location the next time the program is closed and opened again). 
 
 add the following audio files to the project as "[NAME].wav" after converting the audio files from .MP4 to .wav
